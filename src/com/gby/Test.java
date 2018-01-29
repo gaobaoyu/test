@@ -1,10 +1,5 @@
 package com.gby;
 
-/*
- * Copyright (c) 2018 maoyan.com
- * All rights reserved.
- *
- */
 
 
 /**
@@ -15,6 +10,9 @@ package com.gby;
  **/
 
 public class Test {
+    public static void function(){
+        System.out.print("xxxxx");
+    }
     private String name;
     public static void main(String[] args){
         System.out.print("xxxxxx");
