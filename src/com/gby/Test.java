@@ -1,12 +1,5 @@
 package com.gby;
 
-/*
- * Copyright (c) 2018 maoyan.com
- * All rights reserved.
- *
- */
-
-
 /**
  * 测试
  *
